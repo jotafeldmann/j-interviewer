@@ -1,6 +1,6 @@
 # Interviewer Notes & Experience
 
-- Auhtor: Jorge Feldmann
+- Author: Jorge Feldmann
 - AI fair usage: drafted with Claude, edited by the author.
 
 A personal collection of notes, patterns, and lessons learned from years of
