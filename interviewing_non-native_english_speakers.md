@@ -1,6 +1,6 @@
 # Interviewing Non-Native English Speakers
 
-- Auhtor: Jorge Feldmann
+- Author: Jorge Feldmann
 - AI fair usage: drafted with Claude, edited by the author.
 
 ## Core Principle
